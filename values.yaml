@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: artifactory-jcr.infra:30000/docker-local/ostock/angular-frontend
+  repository: artifactory-jcr.infra/docker-local/ostock/angular-frontend
   pullPolicy: Always
   tag: 0.1.0
 imagePullSecrets: []
